@@ -1,0 +1,5 @@
+{
+    "name": "SvelteWorkspace",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "devcontainer"
+}
